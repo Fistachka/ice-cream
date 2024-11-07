@@ -1,11 +1,10 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 
-![biological-elements1](https://github.com/user-attachments/assets/d66b07f9-4131-435c-963b-b3fce71655fc)
+![foodiesfeed com_fruit-popsicles](https://github.com/user-attachments/assets/b29c9b43-1647-4e4b-b550-db85d3baabf4)
 
 # Субмедианта<br><br>
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-
-![biological-elements1](https://github.com/user-attachments/assets/d66b07f9-4131-435c-963b-b3fce71655fc)
+![foodiesfeed com_fruit-popsicles](https://github.com/user-attachments/assets/b29c9b43-1647-4e4b-b550-db85d3baabf4)
 # Submediant<br><br>
