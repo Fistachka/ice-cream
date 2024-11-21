@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>ice-cream</repo>
-  <version>v1.0.5</version>
+  <version>v1.0.6</version>
   <next number="1" owner="stolbitsa" repo="submediant"/>
   <readme>
-    <ru>5d137cc51a0fd9d6c9bb8bec640d41e527cb3b8baf3be2d87e8bad097aa59f10</ru>
-    <en>bc433cd820f77616c19b973de26dbabdbd4188bb96300813ff460fabc3e4182f</en>
+    <ru>9b2864a2db11b8f510ef24a7553a12a31d03efbd7d9ed60a2de2460b9dc818e6</ru>
+    <en>f12d390e18c8715ccf60ae2e0f6a430e0e148b36ad396b65d2878c73665261ac</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
